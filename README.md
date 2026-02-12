@@ -60,14 +60,6 @@
 
 ---
 
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=arnav1803&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnav1803&layout=compact)
-
----
-
 ## 🎯 Goals for 2025
 
 - ✔️ Build end-to-end AI projects  
