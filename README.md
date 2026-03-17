@@ -20,7 +20,6 @@
 
 - GitHub: https://github.com/arnav1803 
 - LinkedIn: https://linkedin.com/in/arnav1806
-
 ---
 
 > **“Strong fundamentals beat flashy titles.”**
