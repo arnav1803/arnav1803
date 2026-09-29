@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="170" viewBox="0 0 820 170" role="img"
+     aria-label="total: 967; last_365_days: 826; active_days: 154; longest_streak: 21d">
+<style>
+  text { font-family: ui-monospace, 'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, monospace; }
+  .card { fill: #f7faf9; stroke: #d0d7de; }
+  .prompt { font-size: 15px; fill: #57606a; }
+  .prompt tspan.q { fill: #0f766e; font-weight: 700; }
+  .head { font-size: 13px; fill: #57606a; }
+  .val { font-size: 30px; font-weight: 700; fill: #1f2328; }
+  .rule { stroke: #d0d7de; }
+  .foot { font-size: 12px; fill: #8c959f; }
+  @media (prefers-color-scheme: dark) {
+    .card { fill: #0d1117; stroke: #30363d; }
+    .prompt, .head { fill: #8b949e; }
+    .prompt tspan.q { fill: #2dd4bf; }
+    .val { fill: #e6edf3; }
+    .rule { stroke: #30363d; }
+    .foot { fill: #6e7681; }
+  }
+</style>
+<rect x="0.5" y="0.5" width="819" height="169" rx="14" class="card"/>
+<text x="28" y="40" class="prompt">arnav1803=&gt; <tspan class="q">SELECT</tspan> * <tspan class="q">FROM</tspan> contributions_summary;</text>
+<line x1="28" y1="58" x2="792" y2="58" class="rule"/>
+<text x="42.0" y="84" class="head">total</text>
+<text x="42.0" y="128" class="val">967</text>
+<text x="233.0" y="84" class="head">last_365_days</text>
+<text x="233.0" y="128" class="val">826</text>
+<line x1="219.0" y1="66" x2="219.0" y2="140" class="rule"/>
+<text x="424.0" y="84" class="head">active_days</text>
+<text x="424.0" y="128" class="val">154</text>
+<line x1="410.0" y1="66" x2="410.0" y2="140" class="rule"/>
+<text x="615.0" y="84" class="head">longest_streak</text>
+<text x="615.0" y="128" class="val">21d</text>
+<line x1="601.0" y1="66" x2="601.0" y2="140" class="rule"/>
+<text x="28" y="158" class="foot">(1 row) · refreshed 2026-09-29</text>
+</svg>
